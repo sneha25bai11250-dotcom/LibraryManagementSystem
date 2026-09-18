@@ -1,4 +1,4 @@
-# <Project Name>
+# <LibraryManagementSyatem>
 
 A Java application developed using Visual Studio Code. This repository contains all source files and instructions to set up, build, and run the project from the command line[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
 
